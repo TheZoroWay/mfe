@@ -1,6 +1,6 @@
 name: deploy-marketing
 
-on:
+on:    
   push:
     branches:
       - main
